@@ -7,4 +7,4 @@
 <br>
 サイト規制などがあったら報告ください！！
 
-# チャンネルは<a href="https://www.youtube.com/@Fokey_yukkuri">こちら</a>から
+<h1>チャンネルは<a href="https://www.youtube.com/@Fokey_yukkuri">こちら</a>から</h1>
