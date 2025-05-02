@@ -1,4 +1,4 @@
-import.meta.env.VITE_API_KEY;'; // ここにYouTube APIキーを挿入
+const apikey = 'AIzaSyCB3a9z6jg25RuBBxhLilyii3sgba4NSQ8'; // ここにYouTube APIキーを挿入
 const player = document.getElementById('player');
 let nextPageToken = null; // 次ページ用のトークン
 let query = ''; // 現在の検索クエリ
